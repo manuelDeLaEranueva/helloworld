@@ -1,1 +1,6 @@
-Hello world =D Good afternoon.
+## Comandos git
+
+# git config --list 
+
+para la configuración
+
